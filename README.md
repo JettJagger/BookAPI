@@ -1,6 +1,9 @@
 # BookAPI
 
-## Breif:
+Completed as part of the 12 week Software Developer Bootcamp, with CodeNation. 
+
+
+## Task:
 
 • Create a Mongoose application that connects to a MongoDB database.
 • Create the following routes;
